@@ -3,7 +3,8 @@ def show_menu():
         1: ("Burger", 50),
         2: ("Pizza", 100),
         3: ("Sandwich", 40),
-        4: ("Coffee", 30)
+        4: ("Coffee", 30),
+        5: ("gobi rice", 80)
     }
 
     print("\n--- FOOD MENU ---")
